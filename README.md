@@ -3,3 +3,4 @@
 # Betinium
 2-person game where you need to move your phone to stop the explosion
 
+Made with Godot, Expo and sleep deprivation
